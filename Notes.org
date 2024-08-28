@@ -1,0 +1,190 @@
+#+title: Notes
+* Chapter 1
+** Stresses
+
+Unstressed 'о' sounds like 'а'. This is more pronounced in the syllable _preceding_ the stressed vowel. In other places
+an unstressed 'о' may have a more neutral sound, like the 'u' in 'cup' in BBC english.
+
+** Hard and soft consonants
+
+Consonants are hard when they are followed by any of
+        а, э, о, у, ы
+
+They are soft when followed by any of
+        я, е, ё, ю, и, ь
+
+ж, ш, ц are always hard
+ч, щ, й are always soft
+
+
+** Voiced and unvoiced consonants
+
+There are the following pairs of voiced and unvoiced consonants
+
+
+| Voiced | Unvoiced |
+|--------+----------|
+| б     | п       |
+| в     | ф       |
+| г      | к       |
+| д     | т        |
+| з      | с        |
+| ж     | ш       |
+
+Voiced consonantes are always pronounced as unvoiced at the end of words
+
+When two consonants come together, they are both pronounced as voiced or unvoiced according to the _second_ consonant.
+
+** Phrases/Vocab
+
+Как вас зовут? What's your name? (lit. how do they call you?)
+А у вас/тебя? And with you?
+
+Это means 'this' or 'it' when it's on its own. With a noun, e.g. это билет, it means 'this is a/the ticket', _not_ 'this ticket'
+
+* Chapter 2
+
+** Этот
+To put 'this' directly with a noun, we use one of  'этот, эта, это, эти'. Note that unlike 'это' this can never form a complete sentence.
+So
+
+        Это магазин - This is a shop
+        Этот магазин называется ГУМ - This shop is called GUM
+** Чей
+When asking 'whose is this?' always use the 'это' form, even though the gender of 'чей' matches that of the noun
+
+* Chapter 3
+
+** Plurals
+
+Plurals are formed in following ways
+
+| Gender    | Sub Type                                        | Behaviour                   |
+|-----------+-------------------------------------------------+-----------------------------|
+| Masculine | ending in ь or й                               | change last letter to  'и' |
+| Masculine | ending in any of г, ж, к, х, ч, ш, щ          | Add 'и' to the end         |
+| Masculine | all others                                      | Add 'ы' to the end         |
+| Feminine  | ending in ь or я                               | change last letter to 'и'  |
+| Feminine  | penultimate letter any of г, ж, к, х, ч, ш, щ | change last letter to 'и'  |
+| Feminine  | all others                                      | change last letter to 'ы'  |
+| Neuter    | ending in 'о'                                  | change last letter to 'а'  |
+| Neuter    | ending in 'е'                                  | change last letter to 'я'  |
+
+In general, for neuter nouns, the stress will shift to the last syllable
+
+** Numbers
+
+Nouns take nominative for numbers ending in 1 (except 11), genitive singular for numbers ending 2-4, and
+genitive plural for numbers ending with 0 or 5-9, plus 11.
+
+** Addresses
+
+Addresses are given 'outside in', i.e. street, house, corpus, flat
+
+* Chapter 4
+
+** Prepositional case
+
+| Group                        | Rule                 |
+|------------------------------+----------------------|
+| Nouns ending in ия          | change ending to ии |
+| Nouns ending in a vowel or ь | change ending to е  |
+| Nouns ending in a consonant  | add е to the end    |
+
+
+** When to use на instead of в
+
+In general, на, is used for events. For places, в, is used.
+
+There are exceptions, such as почта, вокзал and рынок, which all take на. This is due to
+the association of на with wide, open things, which each of this used to be.
+
+Note the for home, neither is used, at home is дома
+
+Most countries use в, however small islands use на.
+
+
+** Imperfet tense of 'to be'
+
+This is used, for example, when asking is someone has been to a place
+
+Вы были в Париже?
+
+* Chapter 5
+
+** Adjectives
+
+Masculine nominative forms are ой, ый or ий
+Feminine nominative are almost always ая
+Neuter nominative almost always ое
+
+Nominative plural is normally ые, unless the preceding letter can't be followed by ы, in which case the ending is ие
+
+Adjectives ending ой are always stressed on the end, no other masculine nominative adjectives are end stressed
+
+* Chapter 6
+
+** On what day
+
+To say a particular day, use the preposition в, and put the day in the accusative case. This is the same as the
+nominative for masculine and neuter days. For feminine days the 'а' is changed to a 'у'. This is how accusatives
+are formed for inanimate nouns.
+
+So
+
+| понеделник | в понеделник  |
+| вторник     | во вторник     |
+| среда       | в среду        |
+| четверг     | в четверг      |
+| пятница     | в пятницу      |
+| суббота     | в субботу      |
+| воскресенье | в воскресенье |
+
+
+
+** Adverbs of time
+
+Note that with никогда, a negative verb is required
+
+я никогда не читаю газеты
+
+* Grammar
+
+** Pronouns
+
+
+| nom.  | что   | кто   | я       | ты     | он     | она   | оно    | мы    | вы    | они   |
+| acc.  | что   | кого  | меня    | тебя   | его     | её    | его     | нас   | вас   | их    |
+| gen.  | чего  | кого  | меня    | тебя   | (н)его | (н)её | (н)его | нас   | вас   | (н)их |
+| prep. | о чём | о ком | обо мне | о тебе | о нём  | о ней | о  нём | о нас | о вас | о них |
+
+** Verbs
+
+*** Conjugation 1
+
+| 1s | ю/у   |
+| 2s | ешь   |
+| 3s | ет    |
+| 1p | ем    |
+| 2p | ете   |
+| 3p | ют/ут |
+
+The 1s and 3p endings take у when the preceding letter is a consonant
+
+Consonant transformations may or may not persist beyond 1s
+
+The е may be stressed, i.e. ё
+
+
+*** Conjugation 2
+
+| 1s | ю     |
+| 2s | ишь   |
+| 3s | ит    |
+| 1p | им    |
+| 2p | ите   |
+| 3p | ят/ат |
+
+The 3p ending takes а after ж, ч, ш and щ. This is a spelling rule which doesn't affect pronounciation.
+
+Consonant transformations don't persist beyond 1s (is this correct?)
