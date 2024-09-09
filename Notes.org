@@ -110,7 +110,20 @@ This is used, for example, when asking is someone has been to a place
 
 Вы были в Париже?
 
+
 * Chapter 5
+** Time
+Two common ways to ask the time
+
+который час
+сколько сейчас времени
+
+Easiest to avoid quarter past etc and use numerals, either in 12 or 24 hour form.
+Note the usual genetive plural rule, so час, часа, часов
+** у меня есть
+
+The preposition is genitive, however this is identical to the accusative, except that the prefix 'н' is added to those beginning with a vowel, so него, неё, них.
+Note that the thing had is in the nominative case.
 
 ** Adjectives
 
@@ -141,12 +154,104 @@ So
 | воскресенье | в воскресенье |
 
 
+** Word order
+
+In general, the interesting word goes last
 
 ** Adverbs of time
 
 Note that with никогда, a negative verb is required
 
 я никогда не читаю газеты
+
+
+** хотеть and мочь
+
+    мочь        хотеть
+я   могу        хочу
+ты  можешь    хочешь
+он  может      хочет
+мы  можем     хотим
+вы  можете    хотите
+они могут       хотят
+
+хотеть can be used with verbs in the infinitive (я хочу спать) or nouns in the accusative (я хочу вину)
+
+
+
+** должен
+
+must, need or have to. Behaves like an adjective, with the form agreeing with the subject
+
+m.  должен
+f.  должна
+n.  должно
+p.  должны
+
+Takes the infinitive, e.g. я должен думать больше
+
+
+** Past tense
+
+For all verbs ending in -ть, replace -ть with -л, -ла, -ло, -ли
+
+мочь is irregular, it's past tense is
+
+m.  мог
+f.  могла
+n.  могло
+p.  могли
+
+
+
+*** Past tense of должен
+
+m.  должен выл
+f.  должна выла
+n.  должно выло
+p.  должны выли
+
+*** у меня есть in the past
+
+replace есть with the past tense of the verb быть. The form of быть depends on the thing had (recall this is in
+the nominative case)
+
+у него была встреча
+
+To say 'I used to have', use раньше
+
+раньше у меня была квартира в Москве
+
+* Chapter 7
+
+
+** Accusative
+For accusative singular, masculine nouns keep the same form as the nominative. Feminine nouns undergo
+the following changes
+
+Ending in   | Accusative
+а           | у
+я           | ю
+ь           | No change
+o
+
+
+** Instrumental
+
+For instrumental singular, masculine and neuter nouns change the ending to -ом, feminine nouns to -ой
+
+
+** Идти, ехать
+
+To go has different verbs, depending on whether the journey is on foot, or by transport
+
+     идти        ехать
+я    иду         еду
+ты   идёшь      едешь
+он   идёт        едет
+мы  идём        едем
+вы  идёте       едете 
+они  идут        едут
 
 * Grammar
 
